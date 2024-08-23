@@ -1,5 +1,4 @@
 {
-  "charset": "utf-8",
   "endOfLine": "crlf",
   "trimTrailingWhitespace": true,
   "insertFinalNewline": true,
@@ -37,6 +36,5 @@
         "useTabs": false
       }
     }
-  ],
-  "ignore": ["node_modules"]
+  ]
 }
